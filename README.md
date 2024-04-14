@@ -1,2 +1,1 @@
-# introduccion-a-javascript
-Repositorio de prueba de curso introduccion a javascript
+Este proyecto es una prueba de como crear un repositorio
